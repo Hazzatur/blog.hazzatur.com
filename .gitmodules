@@ -1,0 +1,3 @@
+[submodule "blog.hazzatur.com_sanity"]
+	path = blog.hazzatur.com_sanity
+	url = git@github.com:Hazzatur/blog.hazzatur.com_sanity.git
